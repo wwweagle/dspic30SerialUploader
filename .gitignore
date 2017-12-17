@@ -1,0 +1,6 @@
+
+**/*.ncb
+Debug/*.*
+!Debug/*.exe
+Release/*.*
+!Release/*.exe
